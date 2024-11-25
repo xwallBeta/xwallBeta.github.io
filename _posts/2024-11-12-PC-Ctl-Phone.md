@@ -44,5 +44,5 @@ CreateObject("Wscript.Shell").Run "cmd /c .....", 0, false
 
 + **第3步快捷方式**
 
-![](https://cdn.nlark.com/yuque/0/2024/png/26130036/1732522426483-66c109df-5d78-4b65-9a76-dda2cceee366.png)
+![](https://wallpapercave.com/wp/wp6522801.jpg)
 
