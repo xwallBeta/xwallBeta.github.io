@@ -1,8 +1,11 @@
 ---
-layout: post
-title:  "投屏工具"
-date:   2024-11-12 15:31:29 +0900
-categories: Leo
+title: "投屏工具"
+date: 2024-11-12T15:31:29+0900
+categories:
+  - Leo
+tags:
+  - Android
+  - update
 ---
 缘起
 * **两个工具**
